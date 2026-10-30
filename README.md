@@ -1,6 +1,6 @@
 # GuppyLM, explained
 
-Live site: https://a1sats.github.io/guppylm-explainer/
+Live site: https://elderengineer.github.io/guppylm-explainer/
 
 An interactive, standalone explainer for [GuppyLM](https://github.com/arman-bd/guppylm) — a ~9M-parameter language model that talks like a small fish.
 
